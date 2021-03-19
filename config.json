@@ -1,0 +1,8 @@
+{
+  "token": "Discord Token",
+  "mongodb": "Connection Link",
+  "prefix": "?",
+  "bot_info": {
+    "version": 1.0
+  }
+}
